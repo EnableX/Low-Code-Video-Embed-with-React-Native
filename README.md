@@ -24,7 +24,7 @@ The EnableX help to the developer community to understand, How the Enablex Low-C
 
 # 1.To Add permission use below code before view renders
 
-![GitHub Logo](/images/permission.png)
+![Permission image](https://github.com/EnableX/Low-Code-Video-Embed-with-React-Native/blob/main/images/permission.PNG)
 
 
 # 2.Pass url to the source of webview as shown beow
