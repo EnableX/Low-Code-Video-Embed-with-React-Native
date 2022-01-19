@@ -11,7 +11,7 @@ async function loadPermission(){
   try{
     const {granted} =  await permission.askAsync(permission.CAMERA,permission.AUDIO_RECORDING);
     if(granted){
-      
+      // To Do Code 
     }else{
         alert("please allow permissions");   
     }
@@ -29,7 +29,8 @@ export default function App() {
     }, [])
     
   return (
-    <WebView 
+    <WebView
+    mediaPlaybackRequiresUserAction={false} 
     style = {styles.container}
     javaScriptEnabled={true}
     source={{ uri: 'https://new.yourvideo.live/617bab415dae7262c0aca609' }} />
