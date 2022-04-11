@@ -13,11 +13,11 @@
     * Node 12 LTS or greater installed
 	* Expo CLI
 
-# Setup
+# Set up
 
     * Install expo cli using the below command
         npm install -g expo-cli
-	* create project using below command
+    * create project using below command
         expo init Project-Name
     * Install expo-permission by using following command
         expo install expo-permissions
