@@ -33,7 +33,7 @@ export default function App() {
     mediaPlaybackRequiresUserAction={false} 
     style = {styles.container}
     javaScriptEnabled={true}
-    source={{ uri: 'https://new.yourvideo.live/617bab415dae7262c0aca609' }} />
+    source={{ uri: 'Enter low code url' }} />
   );
 }
 
