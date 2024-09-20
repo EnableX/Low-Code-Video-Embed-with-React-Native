@@ -6,10 +6,10 @@ Discover EnableX Video Embed, an effortless Video Calling API packed with robust
 
 No need for complex client-side SDKs to create a captivating UI layout for your video meeting app. Choose our pre-made UI or design your own with the EnableX App Visual Builder. Launch your feature-rich video meeting app in no time.
 
-For comprehensive developer guidance on implementing EnableX Low-Code Video Embed in a React Native App with Expo CLI, explore our documentation at https://www.enablex.io/developer/video/low-code-video-embed/. Empower your development with EnableX and React Native today!
+For comprehensive developer guidance on implementing EnableX Low-Code Video Embed in a React Native App with Expo CLI, explore our documentation at https://developer.enablex.io/docs/guides/low-code-video-guide/integration/index/. Empower your development with EnableX and React Native today!
 
  # Documentation
- Visit https://www.enablex.io/developer/video/low-code-video-embed/ to view the full Low-Code-Video-Embed developer guide documentation and get started.
+ Visit https://developer.enablex.io/docs/guides/low-code-video-guide/integration/index/ to view the full Low-Code-Video-Embed developer guide documentation and get started.
  
  The EnableX help to the developer community to understand, How the Enablex Low-Code-Video-Embed product can be implemented using webview in React Native App using (Expo CLI)
 
